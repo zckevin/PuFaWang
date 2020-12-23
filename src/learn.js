@@ -1,5 +1,5 @@
 // for 7th grade(aka 初一)
-// modify `tasks` sequence in functio run for other grades
+// modify array `tasks` in function `run()` for other grades
 
 const fetch = require("node-fetch");
 
